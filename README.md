@@ -1,1 +1,1 @@
-A next.js project using redis database as a database
+A next.js project using redis as a database
